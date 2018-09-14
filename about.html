@@ -1,0 +1,36 @@
+---
+layout: article
+title: About
+---
+
+<div class="row">
+
+{% assign article_list = site.articles | sort: 'order'  %}
+
+<div class="col-lg-3">
+    <div class="toc">
+    <ul>
+    {% for article in article_list %}
+    {% if article.tags contains "about" %}
+    
+        <li> {{ article.title }}  </li>
+        
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </div>
+</div>
+
+<div class="col-lg-8">
+    {% for article in article_list %}
+    {% if article.tags contains "about" %}
+
+        <h4>{{ article.title }}</h4>
+        {{ article.content }}
+		
+    {% endif %}
+    {% endfor %}
+
+</div>
+
+</div>

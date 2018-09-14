@@ -1,0 +1,43 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://
+baseurl: 
+title: California Integrated Transit Project
+short-title: Cal-ITP
+
+author: Elizabeth Sall
+credits: 'Site created by Elizabeth Sall, UrbanLabs LLC'
+
+collections:
+    articles:
+        output: true
+    presentations:
+        output: false
+
+
+# ----------------------- #
+#   Look Settings         #
+# ----------------------- #
+
+highlight-color: 046b99         #cal blue
+dark-gray-color: 2F4F4F         #dark gray
+background-highlight: fafafa    #light gray - blueish
+highlight-text: f8f8f8          #light gray
+
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   Social                #
+# ----------------------- #
+ 
+twitter-url: http://twitter.com/california_itp
+

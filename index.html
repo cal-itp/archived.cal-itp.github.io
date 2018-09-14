@@ -1,0 +1,34 @@
+---
+layout: default
+title: California Integrated Travel Project
+---
+
+<!-- Main -->
+<body id="front">
+<div class="row">
+
+<div class="col-md-8">
+<p>
+{% for article in site.articles %}
+  	{% if article.tags contains "about" %}
+  	{% if article.front == true %}
+		<p class="caption">{{ article.content }}</p>
+  	{% endif %}
+  	{% endif %}
+{% endfor %}
+</p>
+
+
+</div>
+
+<div class="col-md-4 front-side">
+    <h4>News</h4>
+    <ul><li>Conference presentations <a href="{{ site.baseurl }}/conference">posted</a></li>
+    </ul>
+</div> <!-- /.col-md-4 -->
+
+
+</div>
+<!-- /.row -->
+</body>
+

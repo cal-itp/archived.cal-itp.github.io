@@ -1,0 +1,40 @@
+---
+layout: default
+title: Presentations
+---
+
+
+<h3>Cal-ITP Conference</h3>
+
+<p>The California Integrated Travel Conference was held May 1st and 2nd 2018 and was the first major opportunity for CalSTA and its partners to present the concept of a statewide integrated travel planning and payment solution to an audience including many California public transit operators and transportation professionals; to invite open discussion on benefits, challenges, and best practices; and to solicit questions and feedback from all participants.
+
+<section id="presentations">
+<h3>Presentations</h3>
+<div class="card-columns">
+    {% assign presentation_list = site.presentations | sort: 'order'  %}
+	{% for presentation in presentation_list %}
+  	<div>
+  	<div class="card">
+  		<div class="card-block">
+    		<h4 class="card-title">{{ presentation.title }}&nbsp;&nbsp;
+    		</h4>
+
+    		<div class="card-subtitle">{{ presentation.author }}{% if presentation.affiliation %}, {{ presentation.affiliation }}{% endif %}</div>
+    		{% if presentation.short-description %}
+    		    <p>&nbsp; &raquo; &nbsp; {{ presentation.short-description }}</p>
+            {% endif %}
+            {% if presentation.presentation-link %}
+    		    <br><a  href="{{ presentation.presentation-link }}"><i class="fa fa-file-pdf" title="presentation icon"></i>&nbsp;&nbsp;presentation</a>
+    		{% endif %}
+    		{% if presentation.presentation-link-2 %}
+    		    <br><a  href="{{ presentation.presentation-link-2 }}"><i class="fa fa-file-pdf" title="presentation icon"></i>&nbsp;&nbsp;2nd presentation</a>
+    		{% endif %}
+    		{% if presentation.video-link %}
+    		    <br><a href="{{ presentation.video-link }}"><i class="fa fa-play-circle" title="play icon"></i>&nbsp;video</a>
+    		{% endif %}
+		</div>
+	</div>
+	</div>
+	{% endfor %}
+</div>
+</section>
