@@ -7,6 +7,7 @@ short-description: The Cal-ITP Project is overseen by a six-member steering comm
 
 The Cal-ITP Project is overseen by a six-member steering committee comprised of the following members:
 
+
 - James Allison, CCJPA  
 - Kyle Gradinger, Caltrans  
 - Chad Edison, CalSTA  

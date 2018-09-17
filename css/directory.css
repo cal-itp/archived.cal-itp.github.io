@@ -12,6 +12,15 @@ p {
 	line-height: 1.75;
 }
 
+
+li {
+	color: #333;
+	font-family: Roboto, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: 300;
+	line-height: 1.4;
+}
+
 #front p {
     color: #585858;
 }
@@ -20,7 +29,7 @@ h1,h2,h3,h4 {
 	font-family: Roboto, Helvetica, sans-serif;
 	text-transform: uppercase;
 }
-h1 {
+h1,h2,h3,h4 {
     font-color: #333;
 }
 
