@@ -10,6 +10,6 @@ The Cal-ITP Project is overseen by a six-member steering committee comprised of 
 - James Allison, Capitol Corridor Joint Powers Authority  
 - Kyle Gradinger, Caltrans  
 - Chad Edison, CalSTA  
-- Josh, California Transit Association  
+- Josh Shaw, California Transit Association  
 - Gillian Gillett, San Francisco Department of Public Works  
 - Elizabeth Sall, UrbanLabs  
