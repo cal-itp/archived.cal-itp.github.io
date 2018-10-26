@@ -8,5 +8,5 @@ author: Rani Narula-Woods
 affiliation: LA Metro
 short-description:
 video-link: "https://www.dropbox.com/sh/p5z9unuk5acvfrj/AAB6gZvqX4UjU1vxLUPOhDgja/Day1/2018-05-01_Cal-ITP_Day1-14.Narula-Woods.mp4"
-presentation-link: "https://www.dropbox.com/preview/session%20PDFs/Day1/11.narulawoods_calitp_v2.pdf"
+presentation-link: "https://www.dropbox.com/s/rhtwl8jbzu6d8t8/11.narulawoods_calitp_v2.pdf?dl=0"
 ---

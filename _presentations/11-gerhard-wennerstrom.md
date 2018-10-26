@@ -8,5 +8,5 @@ author: Gerhard Wennerstrom
 affiliation: Samtrafiken
 short-description:
 video-link: "https://www.dropbox.com/sh/p5z9unuk5acvfrj/AAA1ZaIrL2OfeXi6-DTR0xX8a/Day1/2018-05-01_Cal-ITP_Day1-11.Wennerstrom.mp4"  
-presentation-link: "https://www.dropbox.com/preview/session%20PDFs/Day1/8.wennerstrom_calitp_v2.pdf"
+presentation-link: "https://www.dropbox.com/s/aqqalm8ejdili4w/8.wennerstrom_calitp_v2.pdf?dl=0"
 ---

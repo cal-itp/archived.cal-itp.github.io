@@ -8,5 +8,5 @@ author: Therese McMillan
 affiliation: LA Metro
 short-description:
 video-link: "https://www.dropbox.com/sh/p5z9unuk5acvfrj/AADs2nbWBZaUlIJVlE4W0java/Day2/2018-05-02_Cal-ITC_Day2-3.McMillan.mp4"  
-presentation-link: "https://www.dropbox.com/preview/session%20PDFs/Day2/3.McMillan_calitp%205-2-18.pdf"  
+presentation-link: "https://www.dropbox.com/s/1ak40lh78bgbcqb/3.McMillan_calitp%205-2-18.pdf?dl=0"  
 ---
