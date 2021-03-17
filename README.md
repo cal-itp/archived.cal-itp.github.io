@@ -1,3 +1,8 @@
-#cal-itp 
+# cal-itp.github.io
 
-A website for the California Integrated Travel Projct
+Original 2018 website for California Integrated Travel Project. This site has been replaced as of Dec 2020, see:
+
+* https://github.com/cal-itp/website
+* https://github.com/cal-itp/transit-stop
+
+This repository is now archived and read-only.
